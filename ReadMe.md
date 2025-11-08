@@ -11,7 +11,7 @@ A lightweight Laravel package that **automatically captures exceptions**, logs t
 ✅ Sends a detailed error email to your admin address  
 ✅ Customizable email Blade view and config file  
 ✅ Zero manual setup — just install and go!  
-
+✅ Twilo use we cn improve error comming mobile call
 ---
 
 ## 🧱 Installation
@@ -26,3 +26,6 @@ composer require sandalanka/laravel-error-reporter
 config/error-reporter.php
 resources/views/vendor/error-reporter/error_mail.blade.php
 ``````````
+# will be publish
+
+##end
